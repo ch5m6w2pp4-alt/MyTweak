@@ -1,0 +1,9 @@
+Package: com.yourname.mytweak
+Name: MyTweak
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: test tweak
+Maintainer: you
+Author: you
+Section: Tweaks
